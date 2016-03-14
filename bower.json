@@ -1,0 +1,24 @@
+{
+  "name": "json-schema-vue",
+  "description": "Build form on vue from json-schema",
+  "main": "index.js",
+  "authors": [
+    "trikadin@mail.ru"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "json-schema",
+    "vue",
+    "json",
+    "form"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
