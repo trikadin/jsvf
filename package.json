@@ -1,0 +1,17 @@
+{
+  "name": "json-schema-vue",
+  "version": "0.1.0",
+  "description": "Build form on vue from json-schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json-schema",
+    "vue",
+    "json",
+    "form"
+  ],
+  "author": "trikadin@mail.ru",
+  "license": "MIT"
+}
