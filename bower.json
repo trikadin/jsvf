@@ -1,5 +1,5 @@
 {
-  "name": "json-schema-vue",
+  "name": "jsvf",
   "description": "Build form on vue from json-schema",
   "main": "index.js",
   "authors": [

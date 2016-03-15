@@ -13,7 +13,7 @@ module.exports = {
 
 	output: {
 		path: output,
-		filename: 'jsv.min.js'
+		filename: 'jsvf.min.js'
 	},
 
 	module: {
